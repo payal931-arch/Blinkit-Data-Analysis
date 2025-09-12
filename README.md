@@ -1,4 +1,5 @@
-<img width="1311" height="736" alt="image" src="https://github.com/user-attachments/assets/f447c11d-591e-4d05-9776-20773fd3c84a" /># Blinkit-Data-Analysis Dashboard
+#Blinkit Data Analysis
+
 
 **Project Overview**
 
